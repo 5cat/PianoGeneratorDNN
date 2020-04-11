@@ -1,4 +1,4 @@
-This repo is related to this [post](https://hashim.id/posts/piano-generation-using-deep-neural-network)
+This repo is related to this [post](https://hashim.id/piano-generation-using-deep-neural-network)
 
 the link for the used [dataset](https://magenta.tensorflow.org/datasets/maestro)
 
